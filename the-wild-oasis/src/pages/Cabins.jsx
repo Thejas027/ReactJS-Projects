@@ -1,4 +1,4 @@
-import Heading from "../ui/Heading";
+import Heading from "../ui/Headings";
 import Row from "../ui/Row";
 
 function Cabins() {
